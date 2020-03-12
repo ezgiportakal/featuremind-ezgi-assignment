@@ -1,1 +1,1 @@
-# featuremind-ezgi-assignment
+# proje
